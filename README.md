@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning...
 - 💞️ I’m looking to collaborate on ...AI based projects, Virtual reality based projects...
 - 📫 How to reach me ...@primary email:davidandco7@gmail.com
-- 😄 Pronouns: ...HIM
 - ⚡ Fun fact: ...Programming is fun.
 
 <!---
